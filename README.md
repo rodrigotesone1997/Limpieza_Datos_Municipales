@@ -1,9 +1,9 @@
 <h1 align="center">Bienvenido 👋</h1>
 <p>
-  <a href="ss" target="_blank">
+  <a href="LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/rodrigotesone97?s=08" target="_blank">
+  <a href="https://twitter.com/rodrigotesone97" target="_blank">
     <img alt="Twitter: Rodrigo Tesone" src="https://img.shields.io/twitter/follow/rodrigotesone97.svg?style=social" />
   </a>
 </p>
@@ -25,7 +25,7 @@ git clone https://github.com/rodrigotesone1997/Limpieza_Datos_Municipales.git
 3.8.10
 ```
 
-## 🪐📓 Version Jupyter Notebook
+## 🪐📓 Versin Jupyter Notebook
 
 > jupyter core     : 4.7.1 </br>
 > jupyter-notebook : 6.4.0 </br>
@@ -84,8 +84,7 @@ Cualquier sugerencia de arquitectura de código,pregunta o problema enviar mail 
 -->
 * Twitter: [@rodrigotesone97](https://twitter.com/rodrigotesone97?s=08)
 * Github: [rodrigotesone1997](https://github.com/rodrigotesone1997)
-<!---* LinkedIn: [@ff](https://linkedin.com/in/ff)
--->
+* LinkedIn: [rodrigo-tesone](https://linkedin.com/in/rodrigo-tesone)
 ## 🤝 Contribuciones y Agradecimientos
 
 
