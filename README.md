@@ -25,7 +25,7 @@ git clone https://github.com/rodrigotesone1997/Limpieza_Datos_Municipales.git
 3.8.10
 ```
 
-## 🪐📓 Versin Jupyter Notebook
+## 🪐📓 Versión Jupyter Notebook
 
 > jupyter core     : 4.7.1 </br>
 > jupyter-notebook : 6.4.0 </br>
