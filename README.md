@@ -85,10 +85,6 @@ Cualquier sugerencia de arquitectura de código,pregunta o problema enviar mail 
 * Twitter: [@rodrigotesone97](https://twitter.com/rodrigotesone97?s=08)
 * Github: [rodrigotesone1997](https://github.com/rodrigotesone1997)
 * LinkedIn: [rodrigo-tesone](https://linkedin.com/in/rodrigo-tesone)
-## 🤝 Contribuciones y Agradecimientos
-
-
-
 
 ## 📝 Licencia
 
